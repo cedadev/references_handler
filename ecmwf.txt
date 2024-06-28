@@ -1,0 +1,8 @@
+Bengtsson L., Kanamitsu M., Kallberg P. and Uppala. S. (1982). FGGE 4- dimensional data assimilation at ECMWF.. 63. 29-43. |multiple, speak with graham
+Geleyn J.F. (1988). Interpolation of wind temperature and humidity values from model levels to the height of measurements.. 40A. 347-351. |multiple, speak with graham
+Geleyn J.F., Hollingsworth A. (1979). An economical analytical method for the computation of the interaction between scattering and line absorption of radiation.. 52. .1-16. |multiple, speak with graham
+Hollingsworth A., Lonberg P. (1986). The statistical structure of short- range forecast errors as determined from radiosonde data. Part I: The wind field.. 38A. 111. |multiple, speak with graham
+Lonberg P., Hollingsworth A. (1986). The statistical structure of short- range forecast errors as determined from radiosonde data. Part II: The covariance of heights and wind errors. 38A. 137-161. |multiple, speak with graham
+Machenhauer B. (1977). On the dynamics of gravity oscillations in a shallow water model, with application to normal mode initialization.. 50. 259-271. |multiple, speak with graham
+Tiedtke M. (1984). The effect of penetrative cumulus convection on the large scale flow in the general circulation model.. 57. 216-239. |multiple, speak with graham
+Wergen W. (1988). The diabatic ECMWF normal mode initialisation scheme.. 61. 274-304. |multiple, speak with graham

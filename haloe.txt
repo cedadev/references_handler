@@ -1,0 +1,4 @@
+Kley, D., J. M. Russell III, and C. Phillips,  (2000). SPARC assessment upper tropospheric and stratospheric water vapour. nan. nan. |https://catalogue.ceda.ac.uk/uuid/6297603d25100cc5e977b750c1a524f7
+Luo, M., A .V. R. Schiano, J. M. Russell III, L. L. Gordley, K. A. Stone, and R. J. Cicerone (1994). Using AVS to View HALOE 3-D Satellite Data, in Visualization Techniques in Space and Atmospheric Sciences, . nan. nan. |https://catalogue.ceda.ac.uk/uuid/6297603d25100cc5e977b750c1a524f7
+Thomason, L., and Th. Peter,  (2006). SPARC Assessment of Stratospheric Aerosol Properties. nan. nan. |https://catalogue.ceda.ac.uk/uuid/6297603d25100cc5e977b750c1a524f7
+Zheng, B., Y. Chen, and J. Jian (2003). Quasi-biennial oscillation in NOx and its relation to quasi-biennial oscillation in O3, Part I: data analysis. 27. 280-292. |https://catalogue.ceda.ac.uk/uuid/6297603d25100cc5e977b750c1a524f7

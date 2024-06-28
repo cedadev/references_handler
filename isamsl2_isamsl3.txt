@@ -1,0 +1,5 @@
+Gray, P.F (1985). Design and performance of the optical system for ISAMS. 589. 89-95. |https://catalogue.ceda.ac.uk/uuid/fb0a13f4a913daee7a93c393e6a67e79
+Lopez-Valverde, M.A., M. Lopez-Puertas and C.J. Marks (1991). Non-LTE modelling for the retrieval of CO abundances from ISAMS measurements. 5. 31-33. |https://catalogue.ceda.ac.uk/uuid/fb0a13f4a913daee7a93c393e6a67e79
+Peskett, G.D. (1985). Mesospheric Sounder (ISAMS) on the Upper Atmosphere Research Satellite (UARS). 589. 81-88. |https://catalogue.ceda.ac.uk/uuid/fb0a13f4a913daee7a93c393e6a67e79
+Taylor, F.W., Scaddan, R.J. and Callard, L. (1988). Improved Stratospheric and Mesospheric Sounder. 810. 81-90. |https://catalogue.ceda.ac.uk/uuid/fb0a13f4a913daee7a93c393e6a67e79
+Werrett, S.T., and Peskett, G.D. (1985). Pressure modulators, closed cycle coolers, and the detector cooling system in ISAMS. 589. 96-103. |https://catalogue.ceda.ac.uk/uuid/fb0a13f4a913daee7a93c393e6a67e79

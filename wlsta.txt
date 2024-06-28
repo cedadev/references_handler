@@ -1,0 +1,11 @@
+Becker F.,  (1982). Absolute sea surface temperature measurements by remote sensing and atmospheric corrections differential radiometry. University of South Carolina Press, Columbia, . 151-174. |https://catalogue.ceda.ac.uk/uuid/b600fe2aca10f44bd47d6f7b53992c51
+Eccles, D., Gorman, M., Lee, D., Moffat, P., Zavody, A.,  (1989). Overview of the ATSR-IR off-line data processing system. nan. nan. |https://catalogue.ceda.ac.uk/uuid/b600fe2aca10f44bd47d6f7b53992c51
+ESA (1989). ERS-1 reference manual, . nan. nan. |https://catalogue.ceda.ac.uk/uuid/b600fe2aca10f44bd47d6f7b53992c51
+Kerr Y.H., J.P. Lagouarde (1989). On the derivation of land surface temperature from AVHRR data, . EUM-P06. 157-160. |https://catalogue.ceda.ac.uk/uuid/b600fe2aca10f44bd47d6f7b53992c51
+Kidwell K.B.,  (1986). AVHRR User's Guide. NOAA/NESDIS, Washington DC. 128pp. |https://catalogue.ceda.ac.uk/uuid/b600fe2aca10f44bd47d6f7b53992c51
+Kneizys F.X., E.P. Shettle, W.O. Gallery, J.H. Chetwynd Jr., L.W.Abreu, J.E.A. Selby, S.A. Clough, R.W. Fenn,  (1983). Atmospheric transmittance / radiance: computer code Lowtran 6. AFGL-TR-83-0187. nan. |https://catalogue.ceda.ac.uk/uuid/b600fe2aca10f44bd47d6f7b53992c51
+Lagouarde J.P., Y.H. Kerr (1985). On the calibration of the thermal NOAA/AVHRR sensor, . ESA SP 248. 325. |https://catalogue.ceda.ac.uk/uuid/b600fe2aca10f44bd47d6f7b53992c51
+McClatchey R.A., R.W. Fenn, J.E.A. Selby, F.E. Volz, J.S. Garing,  (1971). Optical properties of the atmosphere (Revised), . 311.910.8. 24. |https://catalogue.ceda.ac.uk/uuid/b600fe2aca10f44bd47d6f7b53992c51
+Prata, A.J.,  (1994). Validation data for Land surface temperature determination from satellites, . 33. 36pp. |https://catalogue.ceda.ac.uk/uuid/b600fe2aca10f44bd47d6f7b53992c51
+Prata, A.J., Platt, C.M.R.,  (1991). Land surface temperature measurements from the AVHRR, . EUM P09. 433-438.. |https://catalogue.ceda.ac.uk/uuid/b600fe2aca10f44bd47d6f7b53992c51
+Andre J.C., et al. (1988). HAPEX-MOBILHY: first results from the Special Observing Period. 6. 447-492. |https://catalogue.ceda.ac.uk/uuid/b600fe2aca10f44bd47d6f7b53992c51

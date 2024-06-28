@@ -1,0 +1,10 @@
+Dickey, J.O. (1984). Activities and goals of the International Union of Geodesy and Geophysics/International Association of Geodesy (IUGG/IAG) Special Study Group 5-98: Atmospheric excitation of earth's rotation. 65. 186. |https://catalogue.ceda.ac.uk/uuid/308cd069fdb90c9f7ff790fdec5f2523
+Dickey, J.O. (1991). High time resolution measurements of earth rotation.. NOS 137 NGS 49. 259-261. |https://catalogue.ceda.ac.uk/uuid/308cd069fdb90c9f7ff790fdec5f2523
+Freedman, A.P., and J.O. Dickey (1991). Intercompanson of AAM analysis and forecast data in UT1 estimation and prediction. NOS 137 NGS 49. 279-293. |https://catalogue.ceda.ac.uk/uuid/308cd069fdb90c9f7ff790fdec5f2523
+Herring, T. (1991). The rotation of the Earth. 29 (suppl.). 172-175. |https://catalogue.ceda.ac.uk/uuid/308cd069fdb90c9f7ff790fdec5f2523
+International Earth Rotation Service (IERS) (1991). Annual Report for 1990. Observatoire de Paris, France. nan. |https://catalogue.ceda.ac.uk/uuid/308cd069fdb90c9f7ff790fdec5f2523
+Krishnamurti, T.N., Sinha, M.C., Krishnamurti, R., Oosterhof, D. and Comeaux, J. (1992). Angular momentum, length of day and monsoonal low-frequency mode.. 70. 131-165. |https://catalogue.ceda.ac.uk/uuid/308cd069fdb90c9f7ff790fdec5f2523
+Moritz, H. and Mueller, I.I. (1987). Earth rotation: Theory and observation. Ungar Publishing Company, New York. 617pp. |https://catalogue.ceda.ac.uk/uuid/308cd069fdb90c9f7ff790fdec5f2523
+Munk, W.H. and G.J.F. MacDonald (1960). The Rotation of the Earth. Cambridge University Press. 323pp. |https://catalogue.ceda.ac.uk/uuid/308cd069fdb90c9f7ff790fdec5f2523
+Salstein, D.A. and D.H. Gambis (1991). Comparisons of polar motion and related atmospheric excitations. 72. 121. |https://catalogue.ceda.ac.uk/uuid/308cd069fdb90c9f7ff790fdec5f2523
+White, G. (1991). Mountain and surface stress torques in NMC analyses.. NOS 137 NGS 49. 262-269. |https://catalogue.ceda.ac.uk/uuid/308cd069fdb90c9f7ff790fdec5f2523

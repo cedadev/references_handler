@@ -1,0 +1,23 @@
+Collins, M. and M.R. Allen (2000). The relative roles of initial and boundary conditions in interannual to decadal climate predictability.. 21. nan. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Grist, J. and S.A. Josey (2004). Closing the heat budget of the SOC climatology through spatially dependent inverse analysis parameter adjustment.. 89. 32pp. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Grist, J. and S.A. Josey (2004). The Impact of Aerosol Loading on Estimates of the Surface Shortwave Flux in the SOC Climatology.. 88. 15pp. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Grist, J. and S.A. Josey (2002). Balancing the SOC climatology using inverse analysis with spatially fixed parameter adjustments.. 80. 38pp. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Hogg, A.McC., J.R. Blundell, W.K. Dewar and P.D. Killworth (2003). Formulation and users' guide for Q-GCM (version 1.0).. 88. 44pp. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Pezzulli, S. and S. Sabbagh (2003). A review of seasonal energy demand forecasting at NGT.. University of Reading. 15pp. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Sinha, B. and R. S. Smith (2002). Development of a fast coupled general circulation model (FORTE) for climate studies, implemented using the OASIS coupler.. 81. 67pp. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Stainforth, D., J. Kettleborough, M. Martin, A. Simpson, R. Gillis, A. Akkas, R. Gault, M. Collins, D. Gavaghan and M. Allen (2002). Climateprediction.net: design principles for public resource modelling research.. nan. 32-38. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Allen M.R., J. Hansen, D.A. Stainforth and A. Heaps (2000). Do-it-yourself climate prediction.. 22. 39604. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Cox, M. and G. McGregor (2003). Climate and health indices for use in a health forecasting model over monthly to seasonal time scales .. 27. 86-86. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Grist, J.P. and S.A. Josey (2003). Towards an improved description of the air-sea heat exchange.. 27. 41-42. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Hogg A.McC., W.K. Dewar, P.D. Killworth and J.R. Blundell (2003). Low-frequency midlatitude variability in a quasi-geostrophic coupled model.. 27. 74-75. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Knight, S., T. Aina, M. Allen, C. Christensen, M. Collins, N. Faull, D. Frame, E. Highwood, J. Kettleborough and D. Stainforth (2003). climateprediction.net goes live!. 27. 97-97. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Mailier, P. (2005). Storm Gangs.. Summer 2005. 14-15. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Mathieu, P-P (2001). Toward research and exploitation of seasonal weather forecasting within COAPEC.. 24. 27-28. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Miller, P., D. Cresswell, S. Laxon, D. Feltham and R. Potter (2003). Constraining sea ice model parameters using sea ice thickness and concentration data.. 27. 86-87. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Mosedale, T.J., D.B. Stephenson and M. Collins (2003). Diagnosis of daily HadCM3 ocean-atmosphere coupling using a simple stochastic model.. 27. 43-43. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Old, C. and K. Haines (2003). Diagnosing the pathways of North Atlantic oceanic heat anomalies in HadCM3.. 27. 45-46. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Osprey, S. (2003). Towards a refinement of the boundary forcing of HOPE.. 27. 46-47. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Snaith, H.M. (2005). Coupled Ocean-Atmosphere Processes and European Climate.. summer 2005. nan. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Snaith, H.M., M. Collins, B. Sinha and P.-P. Mathieu (2001). COAPEC (Coupled Ocean Atmosphere Processes and European Climate): An introduction.. 24. 25-27. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Wadley, M. and G.Bigg (2003). Great salinity anomalies in HadCM3?. 27. 48-49. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 
+Wilson, C. and R.G. Williams (2003). Does ocean gyre circulation affect storm tracks?. 27. 49-50. |https://catalogue.ceda.ac.uk/uuid/fce964f2c07f107e3db5fb0a5c09c9b8 

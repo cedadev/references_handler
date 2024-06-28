@@ -1,0 +1,7 @@
+P.D.Watts, C.T.Mutlow, A.J.Baran, A.M.Zavody (1998). Study on Cloud Properties derived from Meteosat Second Generation Observations. EUM.ITT.97.181. 344pp. |https://catalogue.ceda.ac.uk/uuid/5fa2529b973e47ae38ab3557f2018ef4
+Matthias Wiegner, Peter Seifert, and Peter Schluss (1997). Effect of Thin Cirrus Clouds on Meteosat Second Generation (MSG) Observations. EUM/CO/96/430/SAT. 69pp. |https://catalogue.ceda.ac.uk/uuid/5fa2529b973e47ae38ab3557f2018ef4
+Hans-Joachim Lutz (1999). MSG - Cloud processing. EUM TM 04. 34pp. |https://catalogue.ceda.ac.uk/uuid/5fa2529b973e47ae38ab3557f2018ef4
+EUMETSAT (2008). Meteosat Weather and climate monitoring from geostationary orbit.. MTS.01,v.1. nan. |https://catalogue.ceda.ac.uk/uuid/5fa2529b973e47ae38ab3557f2018ef4
+P.D.Watts, M.R.Allen, C.T.Mutlow, C.Levoni,  (2000). Aerosol Properties derived from Meteosat Second Generation Observations. RAL .TN.EUM.004. 242 pages. |https://catalogue.ceda.ac.uk/uuid/5fa2529b973e47ae38ab3557f2018ef4
+Stephen A. Tjemkes and Johannes Schmetz,  (nan). MSG - Radiative Transfer Simulations for the Thermal Channels. EUM TM 01. 118pp. |https://catalogue.ceda.ac.uk/uuid/5fa2529b973e47ae38ab3557f2018ef4
+EUMETSAT (2002). MSG - Data Collection and Retransmission Service. EUM TD 09. 38pp. |https://catalogue.ceda.ac.uk/uuid/5fa2529b973e47ae38ab3557f2018ef4

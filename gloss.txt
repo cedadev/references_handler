@@ -1,0 +1,44 @@
+BOLDUC, P.A. & MURTY, T.S. (1992). Monthly mean sea level anomalies for the North and tropical Atlantic Ocean.  Washington, DC: American Geophysical Union. 196pp.. ed.P.L.Woodworth, D.T.Pugh, J.G.De Ronde, R.G.Warrick & J.Hannah, American Geophysical Union. .1-22. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+CARTER, W.E. (ed.) (1994). Report of the Surrey Workshop of the IAPSO Tide Gauge Bench Mark Fixing Committee. Report of a meeting held 13-15 December 1993 at the Institute of Oceanographic Sciences Deacon Laboratory.. NOSOES0006. 81pp. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+CARTER, W.E., AUBREY, D.G., BAKER, T.F., BOUCHER, C., PROVOST, C. Le, PUGH,, D.T., PELTIER, W.R., ZUMBERGE, M., RAPP, R.H., SCHUTZ, R.E., EMERY, K.O. &, ENFIELD, D.B. (1989). Geodetic fixing of tide gauge bench marks.. WHOI-89-31, . 44pp. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+CITIES ON WATER. (1991). Impact of Sea Level Rise on Cities and Regions.. nan. nan. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+DOWELL,S.L. & RICKARDS,L.J. (1993). Recent developments in sea level networks and data centres.. S. Jelgersma, M.J. Tooley, R.H. Boekelman (eds), Directorate General for Public Works and Water Management. 39-50. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+EDEN, H.F. (Ed.). (1990). Towards an integrated system for measuring long term changes in global sea level.. Joint Oceanographic Institutions. 178pp. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+Intergovernmental Oceanographic Commission (1988). IOC Task Team on the Global Sea-Level Observing System (GLOSS), second session, Honolulu, USA, 19-23 October 1987. . IOC/GLOSS-II/3. 23pp. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+Intergovernmental Oceanographic Commission (1992). IOC-UNEP-WMO pilot activity on sea-level changes and associated coastal impacts: draft action plan for implementation in the Indian Ocean.. IOC/INF-908. 12pp. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+Intergovernmental Panel on Climate Change (IPCC) (1990). Climatic change: the IPCC scientific assessment. J.T.Houghton, G.J.Jenkins and J.J.Ephraums (eds), Cambridge University Press. 365pp. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+JAPAN HYDROGRAPHIC ASSOCIATION. (1992). Report of International seminar and follow-up study on Mean sea level monitoring in Asian and Oceanian regions - International seminar held Tokyo, 26-27 November 1991 and follow-up study in Bangladesh and Indonesia, January 1992. . Japan Hydrographic Association(Tokyo). 174pp. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+PUGH, D.T. (1987). Tides, surges and mean sea-level: a handbook for engineers and scientists. . Wiley. 472pp. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+PUGH, D.T. (1988). The Global Sea-Level Observing System.. ed. J.A.Kitching.. .8-11. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+PUGH, D.T. (1990). Is there a sea-level problem?. 88. 347-366. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+PUGH, D.T., SPENCER, N.E. & WOODWORTH, P.L. (1987). Data holdings of the Permanent Service for Mean Sea Level.. Bidston, Birkenhead: Permanent Service for Mean Sea Level. 156pp. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+SMITHSON, M.J. (1992). Pelagic tidal constants - 3.. 35. 191pp. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+SPENCER, N.E. & WOODWORTH, P.L. (1991). Data holdings of the Permanent Service for Mean Sea Level (January 1991).. Bidston, Birkenhead: Permanent Service for Mean Sea Level.. 136pp. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+SPENCER, N.E. & WOODWORTH, P.L. (1993). Data holdings of the Permanent Service for Mean Sea Level (November 1993). Bidston, Birkenhead: Permanent Service for Mean Sea Level. . 81pp. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+SPENCER, N.E., WOODWORTH, P.L. & PUGH, D.T. (1988). Ancillary time series of mean sea level measurements.. Bidston, Birkenhead: Permanent Service for Mean Sea Level. . 69pp. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+WOODWORTH, P.L. (1993). Global sea level monitoring.. nan. 329-341. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+WOODWORTH, P.L. (1993). PSMSL Annual Report for 1993.. 219. 303-310. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+WOODWORTH, P.L. (1995). Monitoring and predicting long term sea level changes. (Abstract).. nan. nan. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+WOODWORTH, P.L. (1995). PSMSL Annual Report for 1994.. 225. 30-38. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+WOODWORTH, P.L. (ED.). (1994). Sixtieth anniversary meeting of the Permanent Service for Mean Sea Level.. Bidston, Birkenhead: Permanent Service for Mean Sea Level. . 37pp. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+WOODWORTH, P.L., PUGH, D.T., DE RONDE, J.G., WARRICK, R.G. & HANNAH, J. (EDS.). (1993). Sea level changes: determination and effects.. nan. 69pp. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+WOODWORTH, P.L., RICKARDS, L.J. & SPENCER, N.E. (1991). The Permanent Service for Mean Sea Level and the Global Sea Level Observing System.. nan. 114pp. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+WORLD OCEAN CIRCULATION EXPERIMENT (WOCE) (1988). World Ocean Circulation Experiment implementation plan. Volume 1: Detailed requirements.. WCRP-11. 63pp. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+WORLD OCEAN CIRCULATION EXPERIMENT (WOCE). (1988). World Ocean Circulation Experiment implementation plan. Volume 2: Scientific background.. WCRP-12. 130pp. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+WORLD OCEAN CIRCULATION EXPERIMENT (WOCE). (1993). WOCE data management.. 104/93. 40pp. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+WYRTKI, K. (1989). Sea level: the rising tide.. 6. nan. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+ABRAM, R.J. (1988). Global Sea-Level Observing System (GLOSS) development in support of the TOGA programme.. 43. .10-11. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+IOC (1991). GLOSS Handbook for IBM PCs.. 61. 6. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+MITCHUM, G (1992). First satellite-reported sea level data in the Indian Ocean.. 6. 15. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+MITCHUM, G. (1992). Two new satellite-reporting sea level stations in the Indian Ocean.. 7. 25. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+PROVOST, C. LE. (1992). On the use of sea level gauge data for satellite altimetry validation.. 15(5). 431-440. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+PUGH, D.T. (1987). The global sea-level observing system.. 45. .5-8. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+PUGH, D.T. (1990). Sea-level: change and challenge.. 26(4). 36-46. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+SPENCER, R., FODEN, P.R., MCGARRY, C., HARRISON, A.J., VASSIE, J.M., BAKER, T.F., SMITHSON, M.J., HARANGOZO, S.A. & WOODWORTH, P.L (1993). The ACCLAIM programme in the South Atlantic and Southern Oceans.. 70. .7-21. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+WOODWORTH, P.L (1992). Permanent Service for Mean Sea Level annual report for 1991.. 209. 52-58. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+WOODWORTH, P.L. (1991). Permanent Service for Mean Sea Level annual report for 1990.. 205. 103-110. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+WOODWORTH, P.L. (1993). PSMSL Annual Report for 1992.. 215. 48-52. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+WOODWORTH, P.L. (1993). PSMSL Annual Report for 1993. 219. 303-310. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+WOODWORTH, P.L. (1991). The Permanent Service for Mean Sea Level and the Global Sea Level Observing System.. 7(3). 699-710. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+WOODWORTH, P.L. (1993). A review of recent sea-level research. 31. 87-109. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 
+WOODWORTH, P.L., SPENCER, N.E. & ALCOCK, G.A. (1990). On the availability of European mean sea level data. 67(1). 131-146. |https://catalogue.ceda.ac.uk/uuid/fe80982ca010869e0693b3076163397c 

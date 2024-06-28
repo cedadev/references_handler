@@ -1,0 +1,2 @@
+C.Craig, K.Stone, D.Cuddy, S.Lewicki, P/Veefkind, P.Leonard, A.Fleig,P.Wagner (2003). HDF-EOS Aura File Format Guidelines. SW-NCA-079. 22pp. |https://catalogue.ceda.ac.uk/uuid/07ee76aabd233fef64fae9abcc3d9415
+W.J.Reburn, A.M.Waterfall,B.J.Kerridge (2005). RAL HIRDLS Validation. STFC, UK. 65pp. |https://catalogue.ceda.ac.uk/uuid/07ee76aabd233fef64fae9abcc3d9415

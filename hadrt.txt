@@ -1,0 +1,2 @@
+Parker, D.E., Gordon, M., Brown, S.J., and O'Donnell, M.  (1998). The New Monthly Gridded Global Upper-Air Temperature Data Sets (HadRT2).. 84. nan. |https://catalogue.ceda.ac.uk/uuid/05f97d2d38abf207abafe96871bca91f
+Seidel, D.; Angell, J.; Christy, J.; Free, M.; Klein, S.; Lanzante, J.; Mears, C.; Parker, D.; Schabel, M.; Spencer, R.; Sterin, A.; Thorne, P.; Wentz, F. (2002). Intercomparison of Global Upper-Air Temperature Datasets from Radiosondes and Satellites. A42D-11. nan. |https://catalogue.ceda.ac.uk/uuid/05f97d2d38abf207abafe96871bca91f

@@ -1,0 +1,6 @@
+Bailey, M.J., A. O'Neill, V.D. Pope (1992). Stratospheric Analyses produced by the UK Meteorological Office.. 24. nan. |https://catalogue.ceda.ac.uk/uuid/3b1a86cc61824d78ce195dc21b661c74
+Grose, W.L., C.D. Rodgers (1986). Coordinated study of the behavior of the middle atmosphere in early winter: Monthly-mean comparisons of satellite and radiosonde data and derived quantities.. 21. 79-111. |https://catalogue.ceda.ac.uk/uuid/3b1a86cc61824d78ce195dc21b661c74
+Miles, T, A. O'Neill  (1989). Comparison of satellite-derived dynamical quantities for the stratosphere of the southern hemisphere.. 29. 245-271. |https://catalogue.ceda.ac.uk/uuid/3b1a86cc61824d78ce195dc21b661c74
+Schwalb, A.  (1978). The TIROS-N/NOAA A-G satellite series.. NESS 95. nan. |https://catalogue.ceda.ac.uk/uuid/3b1a86cc61824d78ce195dc21b661c74
+Eyre, J.R, A.C. Lorenc (1989). Direct use of satellite sounding radiances in numerical weather prediction. 118(1398). 13-16. |https://catalogue.ceda.ac.uk/uuid/3b1a86cc61824d78ce195dc21b661c74
+Smith, W.L, H.M. Woolf (1979). The TIROS-N operational Vertical Sounder.. 60. 1177-1187. |https://catalogue.ceda.ac.uk/uuid/3b1a86cc61824d78ce195dc21b661c74

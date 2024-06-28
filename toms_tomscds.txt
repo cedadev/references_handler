@@ -1,0 +1,6 @@
+Lienesch, J.H. and P.K.K. Pandey (1985). The use of TOMS data in evaluating and improving the total ozone from TOVS measurements. NOAA-TR-NESDIS-23. 3814-3828. |https://catalogue.ceda.ac.uk/uuid/647386c0a0fcd1db244e14fbb689e9be
+Dave, J.V. (1964). Meaning of successive iteration of the auxiliary equation of radiative transfer". 140. 1292-1303. |https://catalogue.ceda.ac.uk/uuid/647386c0a0fcd1db244e14fbb689e9be
+Heath, D.F., A.J. Krueger, H.R. Roeder, and B.D. Henderson (1975). The Solar Backscatter Ultraviolet and Total Ozone Mapping Spectrometer (SBUV/TOMS) for Nimbus G. 14. 323-331. |https://catalogue.ceda.ac.uk/uuid/647386c0a0fcd1db244e14fbb689e9be
+Stolarski, R.S. (1992). Observations of global stratospheric ozone change. 96. 258-263. |https://catalogue.ceda.ac.uk/uuid/647386c0a0fcd1db244e14fbb689e9be
+Vigroux, E. (1967). Determination des coefficients moyen d'absorption de l'ozone en vue des observations concernant l'ozone atmospherique a l'aide du spectrometre Dobson. ser. 14, 2. 209-215. |https://catalogue.ceda.ac.uk/uuid/647386c0a0fcd1db244e14fbb689e9be
+Vigroux, Ernest (1953). Contribution a l'etude experimental de l'absorption de l'ozone. ser. 12, 8. 709-762. |https://catalogue.ceda.ac.uk/uuid/647386c0a0fcd1db244e14fbb689e9be
