@@ -1,0 +1,1 @@
+All TXT files are for those which could not be generated via a URL/DOI being present. If you wish to rebuild the references for those which are built using DOI/URL, please uncomment the 2 functions and run the code with them. Warning - this can take upwards on 20 minutes to go through and do them all as it is using an API call.
